@@ -1,0 +1,3 @@
+[submodule "src/lib/Redux/Utils/DoseParser"]
+	path = src/lib/Redux/Utils/DoseParser
+	url = https://github.com/cbeveridge74/DoseParser.git

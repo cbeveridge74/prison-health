@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <topicals>
+    <topical key="affected" />
+    <topical key="aplied" />
+    <topical key="aply" />
+    <topical key="appli" />
+    <topical key="apply" />
+    <topical key="appy" />
+    <topical key="aqua" />
+    <topical key="bath" />
+    <topical key="basin" />
+    <topical key="capful" />
+    <topical key="clip" />
+    <topical key="change" />
+    <topical key="cream" />
+    <topical key="crust" />
+    <topical key="dab" />
+    <topical key="dissolve" />
+    <topical key="elbow" />
+    <topical key="face" />
+    <topical key="hair" />
+    <topical key="head" />
+    <topical key="insert" />
+    <topical key="instil" />
+    <topical key="knee" />
+    <topical key="lather" />
+    <topical key="lotion" />
+    <topical key="massage" />
+    <topical key="nose" />
+    <topical key="patch" />
+    <topical key="peel" />
+    <topical key="rinse" />
+    <topical key="rub" />
+    <topical key="sand" />
+    <topical key="scalp" />
+    <topical key="shower" />
+    <topical key="size" />
+    <topical key="skin" />
+    <topical key="soap" />
+    <topical key="soften" />
+    <topical key="sparingly" />
+    <topical key="spray" />
+    <topical key="squirt" />
+    <topical key="thinly" />
+    <topical key="toe" />
+    <topical key="topical" />
+    <topical key="use" />
+    <topical key="wash" />
+    <topical key="wrap" />
+  </topicals>
+  <synonyms>
+    <!--Persistent-->
+    <synonym key="one" value="1" />
+    <synonym key="ii" value="2" />
+    <synonym key="two" value="2" />
+    <synonym key="iii" value="3" />
+    <synonym key="three" value="3" />
+    <synonym key="four" value="4" />
+    <synonym key="fuor" value="4" />
+    <synonym key="five" value="5" />
+    <synonym key="six" value="6" />
+    <synonym key="seven" value="7" />
+    <synonym key="eight" value="8" />
+    <synonym key="nine" value="9" />
+    <synonym key="io" value="10" />
+    <synonym key="ten" value="10" />
+    <synonym key="eleven" value="11" />
+    <synonym key="twelve" value="12" />
+    <synonym key="fifteen" value="15" />
+    <synonym key="twenty" value="20" />
+    <synonym key="thirty" value="30" />
+    <synonym key="forty" value="40" />
+    <synonym key="fifty" value="50" />
+    <synonym key="sixty" value="60" />
+    <synonym key="seventy" value="70" />
+    <synonym key="eighty" value="80" />
+    <synonym key="ninety" value="90" />
+    <synonym key="afternoon" value="afternoon" />
+    <synonym key="amp" value="amp" />
+    <synonym key="ampoule" value="amp" />
+    <synonym key="amps" value="amp" />
+    <synonym key="biscuit" value="biscuit" />
+    <synonym key="biscuits" value="biscuit" />
+    <synonym key="cap" value="cap" />
+    <synonym key="caps" value="cap" />
+    <synonym key="capsule" value="cap" />
+    <synonym key="capsules" value="cap" />
+    <synonym key="carton" value="carton" />
+    <synonym key="cartons" value="carton" />
+    <synonym key="aday" value="day" />
+    <synonym key="day" value="day" />
+    <synonym key="days" value="day" />
+    <synonym key="dayas" value="day" />
+    <synonym key="dy" value="day" />
+    <synonym key="dir" value="directed" />
+    <synonym key="directed" value="directed" />
+    <synonym key="driected" value="directed" />
+    <synonym key="drop" value="drop" />
+    <synonym key="drops" value="drop" />
+    <synonym key="each" value="each" />
+    <synonym key="every" value="each" />
+    <synonym key="evry" value="each" />
+    <synonym key="per" value="each" />
+    <synonym key="dinner" value="evening" />
+    <synonym key="evening" value="evening" />
+    <synonym key="supper" value="evening" />
+    <synonym key="tea" value="evening" />
+    <synonym key="teatime" value="evening" />
+    <synonym key="fri" value="friday" />
+    <synonym key="friday" value="friday" />
+    <synonym key="fridays" value="friday" />
+    <synonym key="g" value="gram" />
+    <synonym key="gm" value="gram" />
+    <synonym key="gram" value="gram" />
+    <synonym key="grams" value="gram" />
+    <synonym key="hour" value="hour" />
+    <synonym key="hours" value="hour" />
+    <synonym key="hr" value="hour" />
+    <synonym key="hrs" value="hour" />
+    <synonym key="inj" value="inj" />
+    <synonym key="injected" value="inj" />
+    <synonym key="injection" value="inj" />
+    <synonym key="l" value="litre" />
+    <synonym key="liter" value="litre" />
+    <synonym key="liters" value="litre" />
+    <synonym key="litre" value="litre" />
+    <synonym key="litres" value="litre" />
+    <synonym key="max" value="max" />
+    <synonym key="maximum" value="max" />
+    <synonym key="total" value="max" />
+    <synonym key="upto" value="max" />
+    <synonym key="mcg" value="mcg" />
+    <synonym key="mcgs" value="mcg" />
+    <synonym key="microgram" value="mcg" />
+    <synonym key="micrograms" value="mcg" />
+    <synonym key="microgramme" value="mcg" />
+    <synonym key="microgrammes" value="mcg" />
+    <synonym key="mg" value="mg" />
+    <synonym key="mgs" value="mg" />
+    <synonym key="miligram" value="mg" />
+    <synonym key="milligram" value="mg" />
+    <synonym key="milligrams" value="mg" />
+    <synonym key="milligramme" value="mg" />
+    <synonym key="milligrammes" value="mg" />
+    <synonym key="linchtime" value="midday" />
+    <synonym key="lunch" value="midday" />
+    <synonym key="lunchtime" value="midday" />
+    <synonym key="midd" value="midday" />
+    <synonym key="midday" value="midday" />
+    <synonym key="noon" value="midday" />
+    <synonym key="mins" value="minute" />
+    <synonym key="minute" value="minute" />
+    <synonym key="minutes" value="minute" />
+    <synonym key="cc" value="ml" />
+    <synonym key="mililitres" value="ml" />
+    <synonym key="milliliters" value="ml" />
+    <synonym key="millilitres" value="ml" />
+    <synonym key="ml" value="ml" />
+    <synonym key="mls" value="ml" />
+    <synonym key="msl" value="ml" />
+    <synonym key="mm" value="mm" />
+    <synonym key="mon" value="monday" />
+    <synonym key="monday" value="monday" />
+    <synonym key="mondays" value="monday" />
+    <synonym key="month" value="month" />
+    <synonym key="months" value="month" />
+    <synonym key="bfast" value="morning" />
+    <synonym key="breakfast" value="morning" />
+    <synonym key="mane" value="morning" />
+    <synonym key="morn" value="morning" />
+    <synonym key="morning" value="morning" />
+    <synonym key="mornings" value="morning" />
+    <synonym key="mornng" value="morning" />
+    <synonym key="next" value="next" />
+    <synonym key="bedtime" value="night" />
+    <synonym key="hs" value="night" />
+    <synonym key="ight" value="night" />
+    <synonym key="ncote" value="night" />
+    <synonym key="ngiht" value="night" />
+    <synonym key="night" value="night" />
+    <synonym key="nights" value="night" />
+    <synonym key="noc" value="night" />
+    <synonym key="noct" value="night" />
+    <synonym key="nocte" value="night" />
+    <synonym key="notce" value="night" />
+    <synonym key="note" value="note" />
+    <synonym key="notes" value="note" />
+    <synonym key="necessary" value="prn" />
+    <synonym key="needed" value="prn" />
+    <synonym key="prn" value="prn" />
+    <synonym key="recquired" value="prn" />
+    <synonym key="req" value="prn" />
+    <synonym key="reqd" value="prn" />
+    <synonym key="requ" value="prn" />
+    <synonym key="required" value="prn" />
+    <synonym key="requiered" value="prn" />
+    <synonym key="rqd" value="prn" />
+    <synonym key="af" value="puff" />
+    <synonym key="ah" value="puff" />
+    <synonym key="inhale" value="puff" />
+    <synonym key="inhaler" value="puff" />
+    <synonym key="inhalers" value="puff" />
+    <synonym key="inhalation" value="puff" />
+    <synonym key="inhalations" value="puff" />
+    <synonym key="inhaltions" value="puff" />
+    <synonym key="nebulize" value="puff" />
+    <synonym key="nebulise" value="puff" />
+    <synonym key="nebulizer" value="puff" />
+    <synonym key="nebuliser" value="puff" />
+    <synonym key="nebulsier" value="puff" />
+    <synonym key="nebulzier" value="puff" />
+    <synonym key="nebulizers" value="puff" />
+    <synonym key="nebulisers" value="puff" />
+    <synonym key="pu" value="puff" />
+    <synonym key="puf" value="puff" />
+    <synonym key="puff" value="puff" />
+    <synonym key="pufff" value="puff" />
+    <synonym key="pufffs" value="puff" />
+    <synonym key="puffs" value="puff" />
+    <synonym key="pufs" value="puff" />
+    <synonym key="puuf" value="puff" />
+    <synonym key="puufs" value="puff" />
+    <synonym key="review" value="review" />
+    <synonym key="sach" value="sachet" />
+    <synonym key="sachet" value="sachet" />
+    <synonym key="sachets" value="sachet" />
+    <synonym key="sat" value="saturday" />
+    <synonym key="saturday" value="saturday" />
+    <synonym key="saturdays" value="saturday" />
+    <synonym key="spray" value="spray" />
+    <synonym key="sprays" value="spray" />
+    <synonym key="stopped" value="stopped" />
+    <synonym key="sun" value="sunday" />
+    <synonym key="sunday" value="sunday" />
+    <synonym key="sundays" value="sunday" />
+    <synonym key="pill" value="tab" />
+    <synonym key="pilll" value="tab" />
+    <synonym key="pills" value="tab" />
+    <synonym key="pils" value="tab" />
+    <synonym key="tab" value="tab" />
+    <synonym key="tabl" value="tab" />
+    <synonym key="tablet" value="tab" />
+    <synonym key="tablets" value="tab" />
+    <synonym key="tabs" value="tab" />
+    <synonym key="tbs" value="tab" />
+    <synonym key="thu" value="thursday" />
+    <synonym key="thur" value="thursday" />
+    <synonym key="thurs" value="thursday" />
+    <synonym key="thursday" value="thursday" />
+    <synonym key="thursdays" value="thursday" />
+    <synonym key="times" value="times" />
+    <synonym key="x" value="times" />
+    <synonym key="tue" value="tuesday" />
+    <synonym key="tues" value="tuesday" />
+    <synonym key="tuesday" value="tuesday" />
+    <synonym key="tuesdays" value="tuesday" />
+    <synonym key="u" value="unit" />
+    <synonym key="unit" value="unit" />
+    <synonym key="units" value="unit" />
+    <synonym key="wafer" value="wafer" />
+    <synonym key="wafers" value="wafer" />
+    <synonym key="wed" value="wednesday" />
+    <synonym key="weds" value="wednesday" />
+    <synonym key="wednesday" value="wednesday" />
+    <synonym key="wednesdays" value="wednesday" />
+    <synonym key="week" value="week" />
+    <synonym key="weeks" value="week" />
+    <synonym key="wk" value="week" />
+    <synonym key="wks" value="week" />
+    <!--Volatile: must be destroyed before leaving phrases-->
+    <synonym key="(" value="(" />
+    <synonym key=")" value=")" />
+    <synonym key="[" value="[" />
+    <synonym key="]" value="]" />
+    <synonym key="/" value="/" />
+    <synonym key="a" value="a" />
+    <synonym key="alt" value="alternate" />
+    <synonym key="alternate" value="alternate" />
+    <synonym key="and" value="and" />
+    <synonym key="am" value="am" />
+    <synonym key="at" value="at" />
+    <synonym key="b" value="b" />
+    <synonym key="bd" value="bds" />
+    <synonym key="bds" value="bds" />
+    <synonym key="bis" value="bds" />
+    <synonym key="takebd" value="bds" />
+    <synonym key="bed" value="bed" />
+    <synonym key="bi" value="bi" />
+    <synonym key="both" value="both" />
+    <synonym key="daiily" value="daily" />
+    <synonym key="dail" value="daily" />
+    <synonym key="daily" value="daily" />
+    <synonym key="daly" value="daily" />
+    <synonym key="dialy" value="daily" />
+    <synonym key="dly" value="daily" />
+    <synonym key="during" value="during" />
+    <synonym key="nightly" value="daily" />
+    <synonym key="od" value="daily" />
+    <synonym key="qad" value="daily" />
+    <synonym key="qd" value="daily" />
+    <synonym key="qqd" value="daily" />
+    <synonym key="disp" value="dispense" />
+    <synonym key="dispense" value="dispense" />
+    <synonym key="dispensing" value="dispense" />
+    <synonym key="aur" value="ear" />
+    <synonym key="ear" value="ear" />
+    <synonym key="ears" value="ear" />
+    <synonym key="la" value="ear" />
+    <synonym key="ra" value="ear" />
+    <synonym key="eye" value="eye" />
+    <synonym key="eyes" value="eye" />
+    <synonym key="fast" value="fast" />
+    <synonym key="fiveml" value="fiveml" />
+    <synonym key="food" value="food" />
+    <synonym key="meals" value="food" />
+    <synonym key="fortnight" value="fortnight" />
+    <synonym key="fortnightly" value="fortnightly" />
+    <synonym key="half" value="half" />
+    <synonym key="hourly" value="hourly" />
+    <synonym key="hrl" value="hourly" />
+    <synonym key="hrly" value="hourly" />
+    <synonym key="in" value="in" />
+    <synonym key="instalment" value="instalment" />
+    <synonym key="instalments" value="instalment" />    
+    <synonym key="last" value="last" />
+    <synonym key="left" value="left" />
+    <synonym key="lft" value="left" />
+    <synonym key="micro" value="micro" />
+    <synonym key="milli" value="milli" />
+    <synonym key="mid" value="mid" />
+    <synonym key="monthly" value="monthly" />
+    <synonym key="more" value="more" />
+    <synonym key="no" value="no" />
+    <synonym key="ln" value="nostril" />
+    <synonym key="nostril" value="nostril" />
+    <synonym key="nostrils" value="nostril" />
+    <synonym key="rn" value="nostril" />
+    <synonym key="o" value="o" />
+    <synonym key="once" value="once" />
+    <synonym key="or" value="or" />
+    <synonym key="other" value="other" />
+    <synonym key="past" value="past" />
+    <synonym key="please" value="please" />
+    <synonym key="pm" value="pm" />
+    <synonym key="prescription" value="prescription" />
+    <synonym key="qds" value="qds" />
+    <synonym key="qid" value="qds" />
+    <synonym key="r" value="r" />
+    <synonym key="right" value="right" />
+    <synonym key="rotation" value="rotation" />
+    <synonym key="side" value="side" />
+    <synonym key="stat" value="stat" />
+    <synonym key="tds" value="tds" />
+    <synonym key="then" value="then" />
+    <synonym key="this" value="this" />
+    <synonym key="tid" value="tds" />
+    <synonym key="tenml" value="tenml" />
+    <synonym key="time" value="time" />
+    <synonym key="-" value="to" />
+    <synonym key="to" value="to" />
+    <synonym key="thrice" value="thrice" />
+    <synonym key="twice" value="twice" />
+    <synonym key="twicw" value="twice" />
+    <synonym key="twivce" value="twice" />
+    <synonym key="up" value="up" />
+    <synonym key="weekly" value="weekly" />
+    <synonym key="weelky" value="weekly" />
+    <synonym key="weely" value="weekly" />
+    <synonym key="wekkly" value="weekly" />
+    <synonym key="wekly" value="weekly" />
+    <synonym key="wkly" value="weekly" />
+    <synonym key="year" value="year" />
+    <synonym key="years" value="year" />
+    <synonym key="you" value="you" />
+    <!--Exclusion triggers-->
+    <synonym key="bottle" value="exclude" />
+    <synonym key="bottles" value="exclude" />
+    <synonym key="build" value="exclude" />
+    <synonym key="decrease" value="exclude" />
+    <synonym key="decreasing" value="exclude" />
+    <synonym key="except" value="exclude" />
+    <synonym key="flavour" value="exclude" />
+    <synonym key="flavours" value="exclude" />
+    <synonym key="followed" value="exclude" />
+    <synonym key="following" value="exclude" />
+    <synonym key="increas" value="exclude" />
+    <synonym key="increase" value="exclude" />
+    <synonym key="increasing" value="exclude" />
+    <synonym key="menses" value="exclude" />
+    <synonym key="menstration" value="exclude" />
+    <synonym key="menstrual" value="exclude" />
+    <synonym key="pump" value="exclude" />
+    <synonym key="reduce" value="exclude" />
+    <synonym key="reducing" value="exclude" />
+    <synonym key="syringe" value="exclude" />
+  </synonyms>
+  <phrases>
+    <!--Remove dispensing instructions-->
+    <phrase key="dispense each([ 0-9\.]+)* (day|week|month)" value="" />
+    <phrase key="dispense[ 0-9\.]* each [0-9] (day|week|month)" value="" />
+    <phrase key="dispense[ 0-9\.]* (daily|weekly|fortnightly|monthly)" value="" />
+    <phrase key="(prescription|rotation) (daily|weekly|fortnightly|monthly)" value="truncate" />
+    <phrase key="(daily|weekly|fortnightly|monthly) (dispense|prescription|rotation)" value="truncate" />
+    <phrase key="dispense" value="truncate" />
+    <phrase key="instalment" value="truncate" />
+    <phrase key="next" value="truncate" />
+    <phrase key="note" value="truncate" />
+    <phrase key="please" value="truncate" />
+    <phrase key="prescription" value="truncate" />
+    <phrase key="review" value="truncate" />
+    <phrase key="rotation" value="truncate" />
+    <phrase key="stopped" value="truncate" />
+    <phrase key="you" value="truncate" />
+    <!--Remove conversational periods-->
+    <phrase key="(last|this|past) (week|fortnight|month|year)" value="" />
+    <phrase key="last" value="" />
+    <phrase key="this" value="" />
+    <phrase key="past" value="" />
+    <phrase key="([0-9\.]+) (minute|year)" value="" />
+    <phrase key="minute" value="" />
+    <phrase key="year" value="" />
+    <!--Exclusion triggers-->
+    <phrase key="[0-9]{2,3}[1-4,6-9]+" value="exclude" />
+    <phrase key="(?&lt;!a )day ([0-9\.]+) to( day)? ([0-9\.]+)" value="exclude" />
+    <phrase key="(monday|tuesday|wednesday|thursday|friday|saturday|sunday) (or|to) (monday|tuesday|wednesday|thursday|friday|saturday|sunday)" value="exclude" />
+    <phrase key="max ([0-9\.]+) (day|night)" value="exclude" />
+    <phrase key="([0-9\.]+) (day|night) max" value="exclude" />
+    <phrase key="and prn" value="prn exclude" />
+    <phrase key="and" value="" />
+    <phrase key="(stat|week) then" value="exclude" />
+    <phrase key="stat" value="" />
+    <phrase key="then" value="" />
+    <!--Remove brackets-->
+    <phrase key="(\[|\().*exclude.*(\]|\))" value="exclude" />
+    <phrase key="([\[\(][^0-9\.^\]\)]*) ([0-9\.]+) (cap|tab|ml) ([^\]\)]*[\]\)])" value="$1 $4 $2 $3" />
+    <phrase key="[\[\(] ([0-9\.]+) a (day|night) [\]\)]" value="max $1" />
+    <phrase key="[\[\(].*(max [a-z0-9\.]+( (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer))*).*[\]\)]" value="$1" />
+    <phrase key="(\[.*\])|(\(.*?\))" value="" />
+    <phrase key="\[" value="" />
+    <phrase key="\]" value="" />
+    <phrase key="\(" value="" />
+    <phrase key="\)" value="" />
+    <!--Simplify terms-->
+    <phrase key="1 / 2" value="0.5" />
+    <phrase key="([0-9\.]+) / ([0-9\.]+) / ([0-9\.]+)" value="" />
+    <phrase key="([0-9\.]+) / ([0-9\.]+)" value="exclude" />
+    <phrase key="([a-z]+) / ([0-9\.]+)" value="exclude" />
+    <phrase key="/" value="each" />
+    <phrase key="([0-9\.]+) o" value="$10" />
+    <phrase key="o" value="" />
+    <phrase key="0 r" value="or" />
+    <phrase key="0" value="" />
+    <phrase key="r" value="" />
+    <phrase key="b fast" value="morning" />
+    <phrase key="b" value="" />
+    <phrase key="fast" value="" />
+    <phrase key="during day" value="midday" />
+    <phrase key="during" value="" />
+    <phrase key="fiveml" value="5 ml" />
+    <phrase key="tenml" value="10 ml" />
+    <phrase key="half" value="0.5" />
+    <phrase key="left right" value="both" />
+    <phrase key="right left" value="both" />
+    <phrase key="left" value="" />
+    <phrase key="right" value="" />
+    <phrase key="24 hour" value="day" />
+    <phrase key="micro gram" value="mcg" />
+    <phrase key="micro" value="" />
+    <phrase key="milli gram" value="mg" />
+    <phrase key="milli" value="" />
+    <phrase key="no more" value="max" />
+    <phrase key="no" value="" />
+    <phrase key="more" value="" />
+    <phrase key="up to" value="max" />
+    <phrase key="up" value="" />
+    <phrase key="(both|each) (ear|eye|nostril|side)" value="double $2" />
+    <phrase key="both" value="" />
+    <phrase key="ear" value="" />
+    <phrase key="eye" value="" />
+    <phrase key="nostril" value="" />
+    <phrase key="side" value="" />
+    <!--Simplify max amounts-->
+    <phrase key="max ([0-9\.]+) (amp|biscuit|cap|carton|drop|inj|puff|sachet|spray|tab|unit|wafer)( day| daily)*" value="max $1 [$2]" />
+    <phrase key="max [0-9\.]+ (gram|litre|mcg|mg|ml|mm)( day| daily)*" value="[$1]" />
+    <phrase key="max ([0-9\.]+) (a day|daily)" value="max $1" />
+    <!--Simplify ranges-->
+    <phrase key="([0-9\.]+) (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer) (to|or) ([0-9\.]+) (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer)" value="$4 $5" />
+    <phrase key="([0-9\.]+) (to|or) [0-9\.]+ (hour|hourly|day|week|month)" value="each $1 $3" />
+    <phrase key="[0-9\.]+ (to|or) ([0-9\.]+) a (hour|hourly|day|week|month)" value="1 item $2 times $3" />
+    <phrase key="([0-9\.]+) a (hour|hourly|day|week|month)" value="1 item $1 times $2" />
+    <phrase key="a" value="" />
+    <phrase key="[0-9\.]+ (to|or) ([0-9\.]+)" value="$2" />
+    <phrase key="to" value="" />
+    <phrase key="([0-9\.]+) times (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer)" value="$1 $2" />
+    <phrase key="(amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer) times" value="$1" />
+    <!--Simplify frequency of days-->
+    <phrase key="(amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer) (day|daily or alternate day|daily)" value="$1 each day" />
+    <phrase key="([0-9\.]+) (day )?each week" value="$1 times week [item]" />
+    <phrase key="(?&lt;!each )([0-9\.]+) (day|daily or alternate day|daily)" value="$1 each day" />
+    <phrase key="(daily or alternate day|each daily|daily)" value="each day" />
+    <phrase key="(alternate|each other) (day|morning|midday|afternoon|evening|night)" value="each 2 day" />
+    <phrase key="alternate" value="" />
+    <phrase key="other" value="" />
+    <phrase key="bi weekly" value="each 14 day" />
+    <phrase key="bi" value="" />
+    <phrase key="(twice week|twice weekly|twice each week)" value="each 3.5 day" />
+    <phrase key="(each week|once week|once weekly|weekly)" value="each 7 day" />
+    <phrase key="(fortnightly|fortnight|twice month|twice monthly|twice each month)" value="each 14 day" />
+    <phrase key="([0-9\.]+) monthly" value="each $1 times 28 day" />
+    <phrase key="(monthly|each month)" value="each 28 day" />
+    <!--Indentify named intra-day time periods-->
+    <phrase key="([0-9\.]+) am each morning" value="morning" />
+    <phrase key="(morning at )?([0-9\.]+) am( morning)?" value="morning" />
+    <phrase key="([0-9\.]+) in am" value="- $1 morning" />
+    <phrase key="(each morning|am)" value="morning" />
+    <phrase key="(each midday|mid day)" value="midday" />
+    <phrase key="mid" value="" />
+    <phrase key="([0-9\.]+) at midday" value="- $1 midday" />
+    <phrase key="([0-9\.]+) pm each afternoon" value="afternoon" />
+    <phrase key="([0-9\.]+) pm" value="afternoon" />
+    <phrase key="(each afternoon|pm)" value="afternoon" />
+    <phrase key="([0-9\.]+) in pm" value="- $1 afternoon" />
+    <phrase key="at 12 midday" value="midday" />
+    <phrase key="at ([0-9]+)" value="afternoon" />
+    <phrase key="at" value="" />
+    <phrase key="in" value="" />
+    <phrase key="each evening" value="evening" />
+    <phrase key="(bed time|bed)" value="bedtime" />
+    <phrase key="time" value="" />
+    <phrase key="night (each )*bedtime" value="night" />
+    <phrase key="bedtime (each )*night" value="night" />
+    <phrase key="each (night|bedtime)" value="night" />
+    <phrase key="bedtime" value="night" />
+    <phrase key="food night" value="exclude" />
+    <phrase key="food" value="" />
+    <phrase key="(morning|midday|afternoon|evening|night) or .*(morning|midday|afternoon|evening|night)" value="exclude" />
+    <phrase key="or" value="" />
+    <phrase key="([0-9\.]+) hour night" value="" />
+    <!--Segment quantities-->
+    <phrase key="([0-9\.]+) (morning|midday|afternoon|evening|night)" value="- $1 item $2" />
+    <phrase key="([0-9\.]+) (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer)" value="- $1 $2" />
+    <phrase key="([0-9\.]+) times -" value="- $1 times" />
+    <phrase key="([0-9\.]+) - ([0-9\.]+)" value="- $1 $2" />
+    <!--Simplify intra-day frequency-->
+    <phrase key="once day" value="1 times day" />
+    <phrase key="once" value="" />
+    <phrase key="[0-9\.]+ (amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer) [0-9\.]+ (morning|midday|afternoon|evening|night)" value="$1 exclude" />
+    <phrase key="(morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night)" value="4 times day" />
+    <phrase key="(morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night)" value="3 times day" />
+    <phrase key="(morning|midday|afternoon|evening|night) (morning|midday|afternoon|evening|night)" value="2 times day" />
+    <phrase key="(twice day|twice each day|bds)" value="2 times day" />
+    <phrase key="twice" value="" />
+    <phrase key="(thrice day|thrice each day|tds)" value="3 times day" />
+    <phrase key="thrice" value="" />
+    <phrase key="qds" value="4 times day" />
+    <phrase key="([0-9\.]+) each day" value="$1 times day [item]" />
+    <phrase key="([0-9\.]+) times each day" value="$1 times day" />
+    <phrase key="([0-9\.]+) hourly" value="each $1 hour" />
+    <phrase key="hourly" value="" />
+    <phrase key="(double|amp|biscuit|cap|carton|drop|gram|inj|litre|mcg|mg|ml|mm|puff|sachet|spray|tab|unit|wafer) each day" value="$1 1 times day" />
+    <phrase key="day (morning|midday|afternoon|evening|night)" value="day" />
+    <!--Apply default 'item' label to unamed units-->
+    <phrase key="([0-9\.]+) ([0-9\.]+) (gram|litre|mcg|mg|ml|mm)" value="$1 times $2 $3" />
+    <phrase key="([0-9]+) 0.5" value="$1+0.5" />
+    <phrase key="([0-9\.]+) ([0-9\.]+) ([0-9\.]+)" value="exclude" />
+    <phrase key="([0-9\.\+]+) ([0-9\.]+)" value="$1 item $2" />
+    <phrase key="([0-9\.\+]+) max ([0-9\.]+)" value="$1 item max $2" />
+    <phrase key="([0-9\.\+]+) prn max ([0-9\.]+)" value="prn $1 item max $2" />
+    <phrase key="([0-9\.\+]+) each" value="$1 item each" />
+    <phrase key="each each" value="each" />
+    <!--Remove units with no multiplier-->
+    <phrase key="([^0-9\.]+) (gram|litre|mcg|mg|ml|mm)" value="$1" />
+  </phrases>
+</root>
