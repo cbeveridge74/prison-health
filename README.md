@@ -1,3 +1,6 @@
+[![Profile](https://img.shields.io/badge/Author-Craig_Beveridge-2b3137?style=flat&logo=github)](https://github.com/cbeveridge74)
+[![View Skills Summary](https://img.shields.io/badge/View%20My-Skills%20Summary-blue?style=flat&logo=markdown)](https://github.com/cbeveridge74)
+
 # Prison Health
 
 This repository contains the **foundations for a system designed to manage medications for patients within the Prison Service**.  
