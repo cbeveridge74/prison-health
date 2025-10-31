@@ -52,9 +52,9 @@ Several utility functions and services extend the domain model, including:
 All **domain** and **utility** logic is tested using **Jest**.  
 You can run the tests with:
 
-CODE_PLACEHOLDER
+```
 npm test
-CODE_PLACEHOLDER
+```
 
 ---
 
