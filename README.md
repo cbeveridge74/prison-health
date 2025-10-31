@@ -6,6 +6,8 @@
 This repository contains the **foundations for a system designed to manage medications for patients within the Prison Service**.  
 The project aimed to create a comprehensive digital solution for medication administration, ordering, review, and detox management — but was unfortunately **put on hold indefinitely**, so development stopped at an early but solid foundational stage.
 
+**NOTE: DoseParser is a submodule and contained within a Private repo which will make some tests fail and not allow the app to be run.  Please request access to the private repo.**
+
 ---
 
 ## Domain Model Overview
@@ -49,6 +51,11 @@ Several utility functions and services extend the domain model, including:
   Computes the actual quantities received for an order compared with expected amounts.
 
 ---
+## Usage
+
+```
+npm i
+```
 
 ## Testing
 
