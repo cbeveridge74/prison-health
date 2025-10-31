@@ -1,6 +1,6 @@
 # Prison Health
 
-This repository contains the **foundations for a system designed to manage medications for patients within the Scottish Prison Service**.  
+This repository contains the **foundations for a system designed to manage medications for patients within the Prison Service**.  
 The project aimed to create a comprehensive digital solution for medication administration, ordering, review, and detox management — but was unfortunately **put on hold indefinitely**, so development stopped at an early but solid foundational stage.
 
 ---
