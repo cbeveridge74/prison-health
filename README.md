@@ -5,7 +5,7 @@ The project aimed to create a comprehensive digital solution for medication admi
 
 ---
 
-## 🩺 Domain Model Overview
+## Domain Model Overview
 
 A complete **domain model** is included, covering several key areas of prison healthcare:
 
