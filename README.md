@@ -66,6 +66,19 @@ You can run the tests with:
 npm test
 ```
 
+## Running in browser
+
+NOTE: This is purely a test harness for testing the model and accompanying utilities in realtime (work in progress)
+
+```
+npm run start
+```
+Then navigate to 
+
+```
+http://localhost:3000/medications
+```
+
 ---
 
 ## Redux Foundations
